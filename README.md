@@ -14,9 +14,9 @@ I have an interest in Machine Learning, Artificial Intelligence, Financial Engin
 I love to discuss over politics, upcoming financial scenario of the country, development and research scope in various fields of science and technology. I have a keen interest in Defense Research and its development. I respect different cultures and enjoy getting along with them. I believe in teamwork and group development.
 </p>
 
+<br>
 <img style="margin:2px" align="right" height="250" width="435" alt="" src="https://raw.githubusercontent.com/kyratna/kyratna/master/gifs/coder.gif" />
 
-<br>
 
 ### Talking about Personal Stuffs:
 
