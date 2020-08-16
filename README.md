@@ -1,4 +1,4 @@
-## Hello World, I'm [Yashoratna!](https://bit.ly/kyratna/) <img src="https://raw.githubusercontent.com/kyratna/kyratna/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World, I'm [Yashoratna!](https://bit.ly/kyratna/) <img src="https://raw.githubusercontent.com/kyratna/kyratna/master/gifs/Hi.gif" width="26px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kumar%20Yashoratna-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kyratna)
 [![Website Badge](https://img.shields.io/badge/Portfolio%20Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://yashoratna.ml)
@@ -15,7 +15,7 @@ I love to discuss over politics, upcoming financial scenario of the country, dev
 </p>
 
 <br>
-<img style="margin:2px" align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img style="margin:2px" align="right" height="250" width="435" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 
 ### Talking about Personal Stuffs:
@@ -50,6 +50,7 @@ I love to discuss over politics, upcoming financial scenario of the country, dev
 <br>
 
 #
+
 <div align="center">
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=kyratna&show_icons=true&hide_border=true" />
 
