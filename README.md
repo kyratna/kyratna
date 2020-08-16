@@ -1,4 +1,4 @@
-## Hello World, I'm [Yashoratna](http://bit.ly/kyratna) <img src="https://raw.githubusercontent.com/kyratna/kyratna/master/gifs/Hi.gif" width="26px">
+## Hello World, I'm [Yashoratna](http://bit.ly/kyratna) <img src="gifs/Hi.gif" width="26px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kumar%20Yashoratna-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kyratna)
 [![Website Badge](https://img.shields.io/badge/Portfolio%20Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://bit.ly/kyratna)
@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@ky__ratna-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ky_ratna/)
 [![Message Badge](https://img.shields.io/badge/-drop%20a%20message-545454?style=flat-square&logo=whatsapp&logoColor=white)](https://kyratna.github.io/kyratnaportfolio.github.io/#conscr)
 
-### Glad to see you here! <img src="https://raw.githubusercontent.com/kyratna/kyratna/master/gifs/emoji.gif" width="27px">
+### Glad to see you here! <img src="gifs/emoji.gif" width="27px">
 
 <p style='text-align: justify;'>
 I am Yashoratna, a final year student pursuing engineering in Computer Science & Engineering at AKTU University, Lucknow, India.
@@ -15,7 +15,7 @@ I love to discuss over politics, upcoming financial scenario of the country, dev
 </p>
 
 <br>
-<img style="margin:2px" align="right" height="250" width="435" alt="" src="https://raw.githubusercontent.com/kyratna/kyratna/master/gifs/coder.gif" />
+<img style="margin:2px" align="right" height="250" width="435" alt="" src="gifs/coder.gif" />
 
 
 ### Talking about Personal Stuffs:
