@@ -16,7 +16,7 @@ I love to discuss over politics, upcoming financial scenario of the country, dev
 
 <br>
 <br>
-<img style="margin:8px" align="right" height="250" width="370" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img style="margin:2px" align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 
 ### Talking about Personal Stuffs:
