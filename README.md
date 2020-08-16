@@ -17,6 +17,7 @@ I love to discuss over politics, upcoming financial scenario of the country, dev
 <br>
 <img style="margin:2px" align="right" height="250" width="435" alt="" src="https://raw.githubusercontent.com/kyratna/kyratna/master/gifs/coder.gif" />
 
+<br>
 
 ### Talking about Personal Stuffs:
 
