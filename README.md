@@ -9,7 +9,7 @@
 ### Glad to see you here! <img src="https://raw.githubusercontent.com/kyratna/kyratna/master/gifs/emoji.gif" width="27px">
 
 <p style='text-align: justify;'>
-I am Kumar Yashoratna, a final year student pursuing engineering in Computer Science & Engineering at KIET, Ghaziabad.
+I am Yashoratna, a final year student pursuing engineering in Computer Science & Engineering at AKTU University, Lucknow, India.
 I have an interest in Machine Learning, Artificial Intelligence, Financial Engineering & Data Science. I have experience in the field of Econometrics and Optimization using Computer Aided Tools. I have build projects using Web Development tools and techniques including HTML, CSS, PHP, BootStrap, etc. and projects based on Machine Learning using OpenCV, NLP, etc. I work over C Language, C++, Java, Python, etc. 
 I love to discuss over politics, upcoming financial scenario of the country, development and research scope in various fields of science and technology. I have a keen interest in Defense Research and its development. I respect different cultures and enjoy getting along with them. I believe in teamwork and group development.
 </p>
