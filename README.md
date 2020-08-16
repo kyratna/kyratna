@@ -57,4 +57,5 @@ I love to discuss over politics, upcoming financial scenario of the country, dev
 
 ### Show some ❤️ by starring some of the repositories!
 
+<img src="https://raw.githubusercontent.com/kyratna/kyratna/master/gifs/bars.gif">
 </div>
