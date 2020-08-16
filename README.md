@@ -1,5 +1,4 @@
-## Hello World, I'm [Yashoratna](http://bit.ly/kyratna){:target="_blank"}</a> <img src="https://raw.githubusercontent.com/kyratna/kyratna/master/gifs/Hi.gif" width="26px">
-[link](url){:target="_blank"}
+## Hello World, I'm [Yashoratna](http://bit.ly/kyratna) <img src="https://raw.githubusercontent.com/kyratna/kyratna/master/gifs/Hi.gif" width="26px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kumar%20Yashoratna-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kyratna)
 [![Website Badge](https://img.shields.io/badge/Portfolio%20Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://yashoratna.ml)
