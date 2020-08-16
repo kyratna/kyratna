@@ -29,8 +29,6 @@ I love to discuss over politics, upcoming financial scenario of the country, dev
 - 📝 Checkout my [Resume](http://bit.ly/cv_yashoratna).
 
 <br>
-<br>
-<br>
 
 <!-- ### Languages and Tools:
 
@@ -111,7 +109,6 @@ I love to discuss over politics, upcoming financial scenario of the country, dev
 	
 </details> -->
 
-<br>
 <br>
 <br>
 
