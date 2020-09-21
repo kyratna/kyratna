@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Portfolio%20Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://bit.ly/kyratna)
 [![Twitter Badge](https://img.shields.io/badge/-@ky__ratna-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ky_ratna)
 [![Instagram Badge](https://img.shields.io/badge/-@ky__ratna-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ky_ratna/)
-[![Message Badge](https://img.shields.io/badge/-drop%20a%20message-545454?style=flat-square&logo=whatsapp&logoColor=white)](https://kyratna.github.io/kyratnaportfolio.github.io/#conscr)
+[![Message Badge](https://img.shields.io/badge/-drop%20a%20message-545454?style=flat-square&logo=whatsapp&logoColor=white)](https://kyratna.github.io/#conscr)
 
 ### Glad to see you here! <img src="https://raw.githubusercontent.com/kyratna/kyratna/master/gifs/emoji.gif" width="27px">
 
