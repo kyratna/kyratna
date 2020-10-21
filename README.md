@@ -1,4 +1,4 @@
-## Hello World, I'm [Yashoratna](http://bit.ly/kyratna) <img src="https://raw.githubusercontent.com/kyratna/kyratna/master/gifs/Hi.gif" width="26px">
+## Hello World, I'm [Yashoratna](https://kyratna.github.io/) <img src="https://raw.githubusercontent.com/kyratna/kyratna/master/gifs/Hi.gif" width="26px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kumar%20Yashoratna-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kyratna)
 [![Website Badge](https://img.shields.io/badge/Portfolio%20Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://kyratna.github.io)
@@ -25,7 +25,7 @@ I love to discuss over politics, upcoming financial scenario of the country, dev
 - 💬 Ask me anything [here](https://github.com/kyratna/kyratna/issues/1#issue-679733809)! I am happy to help.
 - 👾 Fun fact: The root is at the top of the tree.
 - 📫 How to reach me: kyashoratna9@gmail.com
-- 📝 Checkout my [Resume](http://bit.ly/cv_yashoratna).
+- 📝 Checkout my [Resume](https://kyratna.github.io/).
 
 <br>
 
